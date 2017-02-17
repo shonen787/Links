@@ -3,19 +3,27 @@
 This will contain all the links to items. 
 If anything is changed, check the Discord channel
 
-Practice Networking -- https://www.gns3.com/ </br>
-Learn Python -- https://learnpythonthehardway.org/book/ex0.html </br>
-Learn linux command line -- http://linuxcommand.org </br>
-Networking Videos -- https://www.cbtnuggets.com/trainers/jeremy-cioara </br>
+<h1>Practice Networking</h1>
+https://www.gns3.com/ </br>
+
+<h1>Learn Python</h1>
+ https://learnpythonthehardway.org/book/ex0.html </br>
+
+<h1>Learn linux command line </h1>
+ http://linuxcommand.org </br>
+
+<h1>Networking Videos </h1>
+ https://www.cbtnuggets.com/trainers/jeremy-cioara </br>
 
 
-Relevant link  --  http://koolacac.blogspot.in/2017/01/oscp-game-over.html?m=1</br>
+<h1>Relevant link</h1>
+http://koolacac.blogspot.in/2017/01/oscp-game-over.html?m=1</br>
  
-Incident Response Link</br>
+<h1>Incident Response Link</h1>
 1) https://github.com/meirwah/awesome-incident-response#awesome-incident-response
 
-#Pentest Links
-Enumeration
+<h2>Pentest Links</h2>
+<h1>Enumeration</h1>
 1) https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/ </br>
 2) https://jivoi.github.io/2015/07/01/pentest-tips-and-tricks/</br>
 3) http://www.0daysecurity.com/penetration-testing/enumeration.html</br>
